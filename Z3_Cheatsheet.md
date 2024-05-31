@@ -3,7 +3,7 @@
 - Adding conditions and constrains
     `s.add(constrains here)`
 - Create the Solver() object using the following initialization
-    `s. = Solver()`
+    `s = Solver()`
 - Check if whether a solution exists
   `if(s.check == unsat: #sat or unsat,same logic but different syntax)
       print("No solution exists.")
